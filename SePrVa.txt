@@ -1,0 +1,37 @@
+////// THREE MAIN PARTS OF CSS ////// 
+
+/// SELECTORS ////
+.DIV
+[DISABLED]
+#PROPERTY-COLOR
+* {}UNIVERSAL SELECTORS
+ETC
+
+
+
+
+
+/////PROPERTIES/////
+{
+    BACKGROUND-COLOR: ;
+}
+
+{
+    WIDTH: ;
+}
+
+
+{
+    FONT-SIZE: ;
+}
+
+
+E.TC
+////// VALUES //////
+
+
+#DBGFGHV
+100PX 4RMM
+BLOCK
+30% ETC
+
